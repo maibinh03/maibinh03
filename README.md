@@ -1,17 +1,17 @@
-## Hi there 🙋
+## Hế lôôôôôô 🙋
 
-I'm Binh, a software engineer based in Viet Nam.
+Mình là Bình, full-stack software engineer người Việt.
 
-I design and build anything I imagine.
+Mình thiết kế và xây dựng các hệ thống công nghệ mà mình thích.
 
-If an idea pop out in my head, I'll build and ship it.
+Nếu mình có 1 ý tưởng hay, mình sẽ build và ship nó.
 
-My main techstack is Python, PosgresSQL, Flutter.
+Techstack chủ yếu của mình là Python, PosgresSQL, Flutter...
 
 Fun fact:
-  - I love doing magic.
-  - I don't smoke or drink.
-  - Hobbies: Basketball, gym and anime.
+  - Mình thích làm ảo thuật.
+  - Mình không hút thuốc hay uống rượu bia.
+  - Sở thích: Bóng rổ, gym và xem phim.
 <!--
 **maibinh03/maibinh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
