@@ -1,5 +1,17 @@
-## Hi there 👋
+## Hi there 🙋
 
+I'm Binh, a software engineer based in Viet Nam.
+
+I design and build anything I imagine.
+
+If an idea pop out in my head, I'll build and ship it.
+
+My main techstack is Python, PosgresSQL, Flutter.
+
+Fun fact:
+  - I love doing magic.
+  - I don't smoke or drink.
+  - Hobbies: Basketball, gym and anime.
 <!--
 **maibinh03/maibinh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
